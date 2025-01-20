@@ -1,6 +1,6 @@
 import java.util.*;
 public class NumDude{
-    public static boolean nonRepeat(int n){
+    public static boolean nonRepeat(int n){//To check if the number is repeating or not
         int arr[]=new int [10];
         while(n!=0){
             int d;
